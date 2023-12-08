@@ -1,0 +1,6 @@
+dev\codesoapbox\mutationtestingexample\config\BeanConfig.class
+dev\codesoapbox\mutationtestingexample\domain\repositories\PlanetRepository.class
+dev\codesoapbox\mutationtestingexample\adapters\api\controllers\PlanetController.class
+dev\codesoapbox\mutationtestingexample\MutationTestingExampleApplication.class
+dev\codesoapbox\mutationtestingexample\adapters\persistence\PlanetInMemoryRepository.class
+dev\codesoapbox\mutationtestingexample\domain\model\Planet.class
